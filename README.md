@@ -16,3 +16,11 @@ O valor de cada peça também irá compor a OSO cliente autoriza a execução do
 A mesma equipe avalia e executa os serviços.</p>
 Os mecânicos possuem código, nome, endereço e especialidade.</p>
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
+
+# Conteúdo Script
+Recuperações simples com SELECT Statement;</p>
+Filtros com WHERE Statement;</p>
+Criação expressões para gerar atributos derivados;</p>
+Definida ordenações dos dados com ORDER BY;</p>
+Condições de filtros aos grupos – HAVING Statement;</p>
+Criada junções entre tabelas para fornecer uma perspectiva mais complexa dos dados;
